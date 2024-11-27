@@ -1,6 +1,6 @@
 ## [Unidad 5](../index.md)
 # Practica 1
-Lo primero que debemos hacer para crear un modulo es crear una estructura de datos determinada, para ahorrar tiempo, docker-compose nos da un comando que nos crea esta estructura automaticamente, el comando es "docker-compose scaffold nombre_modulo /mnt/extra-addons/"
+Lo primero que debemos hacer para crear un modulo es crear una estructura de datos determinada, para ahorrar tiempo, docker-compose nos da un comando que nos crea esta estructura automaticamente, el comando es "odoo scaffold nombre_modulo /mnt/extra-addons/"
 ![Comando](archivos/creacion_estructura_modulo.png)
 
 Este comando nos deja esta estructura
