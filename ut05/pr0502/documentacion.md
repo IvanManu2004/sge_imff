@@ -139,3 +139,7 @@ id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
 access_gestion_libreria_gestion_libro,gestion_libreria.gestion_libro,model_gestion_libreria_gestion_libro,base.group_user,1,1,1,1
 access_gestion_libreria_gestion_autor,gestion_libreria.gestion_autor,model_gestion_libreria_gestion_autor,base.group_user,1,1,1,1
 ```
+
+
+## Prueba Funcionamiento
+![Funcionamiento](archivos/funcionamiento.png)

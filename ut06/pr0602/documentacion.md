@@ -225,3 +225,7 @@ access_library_imff_libreria_autores,library_imff.libreria_autores,model_library
 access_library_imff_libreria_libros,library_imff.libreria_libros,model_library_imff_libreria_libros,base.group_user,1,1,1,1
 access_library_imff_libreria_socios,library_imff.libreria_socios,model_library_imff_libreria_socios,base.group_user,1,1,1,1
 ```
+
+
+## Prueba Funcionamiento
+![Funcionamiento](archivos/funcionamiento.png)

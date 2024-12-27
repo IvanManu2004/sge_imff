@@ -137,3 +137,7 @@ access_gestion_productos_gestion_productos,gestion_productos.gestion_productos,m
     ],
 }
 ```
+
+
+## Prueba Funcionamiento
+![Funcionamiento](archivos/funcionamiento.png)

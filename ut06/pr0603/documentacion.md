@@ -141,3 +141,7 @@ class stock_product(models.Model):
   </data>
 </odoo>
 ```
+
+
+## Prueba Funcionamiento
+![Funcionamiento](archivos/funcionamiento.png)
